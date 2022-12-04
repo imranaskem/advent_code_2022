@@ -8,7 +8,7 @@
             "name": "Python: Module",
             "type": "python",
             "request": "launch",
-            "module": "day_01.day_01",
+            "module": "day_02.day_02",
             "justMyCode": true
         }
     ]
